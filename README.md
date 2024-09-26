@@ -57,6 +57,11 @@ Para instalar las bibliotecas necesarias, puedes usar el siguiente comando:
 pip install -r requirements.txt
 ```
 
+Comando para iniciar el env
+```
+.env\Scripts\activate 
+```
+
 ## Ejecución
 
 Para ejecutar cualquiera de los scripts, use el siguiente comando en la terminal:
